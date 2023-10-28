@@ -2,7 +2,7 @@
 
 スイカゲーム clone on Nintendo Switch
 
-![](result.png)
+<img src="result.png" width="600px"/>
 
 ## Play Demo
 
