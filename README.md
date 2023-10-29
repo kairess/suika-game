@@ -2,6 +2,8 @@
 
 スイカゲーム clone on Nintendo Switch
 
+<img src="shorts.gif" width="600px"/>
+
 <img src="result.png" width="400px"/>
 
 ## Play Demo
